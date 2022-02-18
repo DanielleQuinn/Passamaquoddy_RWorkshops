@@ -34,6 +34,6 @@ Install the up-to-date versions of the required packages, using the following co
 *If you are not familiar with running code in RStudio or are not able to install the packages, don't worry! We will cover this during the workshop. It saves time if you can do this before March 4, but if not, there will be time on February 23 dedicated to completing this task.*
 
 
-#### 4. Download the workshop materials. THESE WILL BE MADE AVAILABLE ON MONDAY EVENING.
+#### 4. Download the workshop materials. THESE WILL BE MADE AVAILABLE ON 21/22 FEBRUARY.
 
 Click on the green button labelled "Code" near the top of the screen. Select "Download ZIP". Once downloaded, unzip these files and save them to a **new folder** on your computer that is easy to find.
