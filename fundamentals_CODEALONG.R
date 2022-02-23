@@ -168,7 +168,7 @@ results2020 <- 200
 results2021 <- 105
 
 # ---- Data Classes ----
-# Objects can contain different structures of data
+# Objects can contain different classes of data
 # Think of this as the key descriptive characteristic of the item in the container
 
 # Numeric
